@@ -1,6 +1,6 @@
 # Smart Production Line Monitoring and Quality Prediction Using Industrial IoT
 
-**Submitted by:** [Your name, roll no.]  **Course:** [Course name]  **Instructor:** [Professor's name]  **Date:** [Date]
+**Submitted by:** [Jaypalsing Nikumbh (231040035) ]  **Course:** [MDM- 5 Industrial IOT ]
 
 ## Abstract
 This project builds a Streamlit dashboard for a multi-stage continuous-flow manufacturing line using the public Kaggle
@@ -97,6 +97,9 @@ run, labelled defects to evaluate anomaly detection, and real-time streaming inp
 
 ## 8. How to run
 See `README.md`.
+
+## 9. App link
+link- "https://smart-appuction-moniter-jqwezeyq4gxmsmaxgabyhm.streamlit.app/"
 
 ## References
 * Kaggle dataset: *Multi-Stage Continuous-Flow Manufacturing Process*, https://www.kaggle.com/datasets/supergus/multistage-continuousflow-manufacturing-process
